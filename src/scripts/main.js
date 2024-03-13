@@ -23,7 +23,6 @@ function buttonClick(event) {
   form.reset();
 };
 
-
 const isNumericInput = (event) => {
   const key = event.keyCode;
   return ((key >= 48 && key <= 57) || // Allow number line
@@ -42,8 +41,6 @@ const isModifierKey = (event) => {
           (key === 65 || key === 67 || key === 86 || key === 88 || key === 90)
       )
 };
-
-
 
 const enforceFormat = (event) => {
   if(!isNumericInput(event) && !isModifierKey(event)){
