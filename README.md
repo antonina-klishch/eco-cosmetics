@@ -1,7 +1,8 @@
 # Landing Page - Eco cosmetics
 
 ## Project Description
-This project is a landing page implemented based on the provided design. It showcases a user-friendly interface designed to promote a bicycle-related product or service.
+This project is a landing page implemented based on the provided design. It showcases a user-friendly interface designed to promote eco-cosmetics and magic candles.
+
 
 ## Technologies Used
  * **HTML5:** Used for the structure and content of the webpage.
@@ -28,9 +29,9 @@ The project consists of the following files and folders:
     * **_variables.scss** - file with global variables.
     * **_mixins.scss** - file with SCSS mixins.
 
-
 ## Mock-up 
-  [MY-BIKE](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
+  [ECO COSMETICS](https://www.figma.com/file/Fz588JKGuPS2Bk21De4KE5/brand_of_eco-cosmetics-(Edit)?node-id=1%3A2)
 
 ## Landing page
-  [DEMO LINK](https://antonina-klishch.github.io/landind_mybike/)
+  [DEMO LINK](https://antonina-klishch.github.io/eco-cosmetics/)
+
