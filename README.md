@@ -13,9 +13,9 @@ This project is a landing page implemented based on the provided design. It show
    
 ## Responsive Design
 The landing page has a responsive layout optimized for different devices:
-* **Mobile** (600px wide or less)
-* **Tablet** ( from 600px to 1024px)
-* **Desktop**  (more than 1024px wide)
+* **Mobile** (640px wide or less)
+* **Tablet** ( from 640px to 1280px)
+* **Desktop**  (more than 1280px wide)
 
 ## Structure
 The project consists of the following files and folders:
