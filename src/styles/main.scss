@@ -1,3 +1,28 @@
-body {
-  margin: 0;
-}
+@import "./utils/variables";
+@import "./utils/extends";
+@import "./utils/mixins";
+@import "./blocks/page";
+@import "./blocks/reset";
+@import "./blocks/grid";
+@import "./blocks/container";
+@import "./blocks/photo";
+@import "./blocks/logo";
+@import "./blocks/icon";
+@import "./blocks/header";
+@import "./blocks/menu";
+@import "./blocks/button";
+@import "./blocks/nav-desktop";
+@import "./blocks/info";
+@import "./blocks/natural-choice";
+@import "./blocks/about";
+@import "./blocks/description";
+@import "./blocks/shop";
+@import "./blocks/nav-shop";
+@import "./blocks/product";
+@import "./blocks/creators";
+@import "./blocks/tooth-powder";
+@import "./blocks/characteristics";
+@import "./blocks/contacts";
+@import "./blocks/form-field";
+@import "./blocks/footer";
+@import "./blocks/card";
